@@ -20,7 +20,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page  
 THEN the saved events persist
 
-![Page look and functionality](assets/images/Work Day Scheduler.gif)
+![Page look and functionality](assets/images/Day-Planner.gif)
 
 Deployed Application: [Day Planner](https://florenciab94.github.io/Day-Planner/)
 
